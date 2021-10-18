@@ -1,0 +1,25 @@
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  font-weight: 200;
+  height: 100%;
+  background-image: url(Media/S4.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: black;
+  margin: auto 50% auto 40%;
+}
+
+p {
+  margin: 2%;
+}
+div {
+  background-color: #b3b3b3cc;
+  color: black;
+  border: 2px solid black;
+  margin: 5% 20% 5% 20%;
+}

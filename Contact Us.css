@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  background-image: url(Media/S2.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#form {
+  background-color: #b3b3b3cc;
+  border: 2px solid black;
+  width: 40%;
+  margin: 0 0 0 4%;
+}
+
+form {
+  padding: 0 3% 0 3%;
+}
+
+#table {
+  display: table;
+}
+
+.cell {
+  display: table-cell;
+  padding: 15px 100px 15px 100px;
+}
+
+#name {
+  width: 100%;
+}
+
+#email {
+  width: 100%;
+}
+
+textarea {
+  border-radius: 5px;
+}
+
+input {
+  border-radius: 5px;
+}
+
+p {
+  padding: 0 3% 0 3%;
+}
+
+#p1 {
+  font-family: "big shoulders Stencil display", cursive;
+  font-weight: 500;
+  font-size: 35px;
+}
